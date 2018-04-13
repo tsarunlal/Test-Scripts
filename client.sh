@@ -1,4 +1,5 @@
 #!/bin/bash
+#Script for Client
 
 cat /dev/null > /var/tmp/out_put.txt
 
